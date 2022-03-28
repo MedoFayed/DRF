@@ -4,3 +4,4 @@
 ## In local folder D:\DJ_DEV\IN_HAND\API Run:
 ####  git clone https://github.com/MedoFayed/DRF.git
 #### Start VSCode in that folder
+git push -u origin main
